@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ajay Kumar Tripurani</h1>
 <h3 align="center">IT Engineer | Data Analyst | Power BI & SQL Expert</h3>
 
@@ -135,3 +136,7 @@
   </a>
 </p>
 <h2  align="center">⭐ Star my repositories if you find them useful! 🚀  </h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcd34601-619d-4c34-bddb-c4986ac03554" alt="Dashboard Banner" width="100%">
+</p>
+
