@@ -120,7 +120,7 @@
 ---
 ## 💼 Experience  
 
-### 🔹 Data Analyst – Rocket Learning (EKHO Foundation), Bangalore  
+### 🔹 Data Analyst – RL, Bangalore  
 **Client:** little yogi's
 **📅 Duration:** June 2024 – Present  
 
