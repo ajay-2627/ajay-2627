@@ -12,10 +12,14 @@
 
 ## 🚀 About Me  
 
-🔹 IT Engineer with **1 year of experience** in IT operations, system administration, and **data analytics**  
-🔹 Passionate about **Power BI, SQL, AWS services, and Data Visualization**  
-🔹 Skilled in **creating interactive dashboards**, **data cleaning**, and **business intelligence solutions**  
-🔹 Experienced in **IT infrastructure management**, **troubleshooting**, and **cloud solutions**  
+Professional Summary 
+Data Analyst with 3.8 years of experience in IT operations, production data support, business 
+intelligence, and data analysis. Proficient in building SQL queries, automating data workflows, 
+and visualizing insights using Power BI, Python and Excel. Hands-on with tools like Splunk, 
+Kibana, Autosys, and Jenkins for data monitoring, analysis, and job scheduling. Strong 
+background in Oracle/MySQL, root cause analysis, and ITIL-aligned process management. 
+Proven experience in collaborating across technical and business teams to deliver actionable 
+insights and ensure service excellence.
 
 ---
 
