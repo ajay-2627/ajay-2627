@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 
-Professional Summary 
+
 Data Analyst with 3.8 years of experience in IT operations, production data support, business 
 intelligence, and data analysis. Proficient in building SQL queries, automating data workflows, 
 and visualizing insights using Power BI, Python and Excel. Hands-on with tools like Splunk, 
