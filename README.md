@@ -120,10 +120,29 @@
 ---
 ## 💼 Experience  
 
-### **🔹 IT Engineer – EKHO FOUNDATION (Rocket Learning) (June 2024 – Present)**  
-✔️ **Project:** Asset Management & Dashboard Development  
-✔️ Developed **Power BI dashboards** for **business intelligence & asset tracking**  
-✔️ Managed **IT infrastructure, system reliability, and AWS cloud services**  
+### 🔹 Data Analyst – Rocket Learning (EKHO Foundation), Bangalore  
+**Client:** little yogi's
+**📅 Duration:** June 2024 – Present  
+
+- Built and optimized SQL queries for extracting and transforming transactional data from Oracle and MySQL databases.  
+- Developed interactive dashboards in Power BI to monitor job failures, feed delays, and SLA breaches.  
+- Used Splunk, Kibana, and Geneos (ITRS) to detect data anomalies and visualize system-level metrics.  
+- Automated recurring data validation and job health checks using Python and Shell scripting.  
+- Scheduled, monitored, and troubleshot ETL workflows using DataDog, TWS, and Control-M.  
+- Interfaced with business teams via ServiceNow to resolve data tickets and manage change requests.  
+- Contributed to internal process documentation (KEDB) and prepared daily operations reports for clients.  
+
+---
+
+### 🔹 Data Analyst – Infosavant Technologies, Mumbai  
+**📅 Duration:** Dec 2021 – May 2024  
+
+- Delivered production support for high-availability data pipelines and automated reporting tasks.  
+- Wrote and optimized complex SQL queries for operations reporting and root cause investigations.  
+- Created Excel-based and Power BI reports to summarize team metrics, operational KPIs, and incident history.  
+- Worked closely with application teams to maintain SLA, ensure data accuracy, and assist in process automation.  
+- Participated in DR and BCP (Business Continuity Planning) simulations and data migration activities.  
+- Supported CI/CD operations using Jenkins and version control through GitHub.  
 
 ---
 ## 📫 Let's Connect!  
