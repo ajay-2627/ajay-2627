@@ -5,7 +5,6 @@
 📍 **Location:** J.P. Nagar 6th Phase, Bengaluru – 560078  
 📞 **Phone:** 7993052111  
 📧 **Email:** ajaytripurani0106@gmail.com  
-🔗 **LinkedIn:** [Ajay Tripurani](https://www.linkedin.com/in/ajaytripurani)  
 🔗 **GitHub:** [ajay-2627](https://github.com/ajay-2627) 
 
 ---
