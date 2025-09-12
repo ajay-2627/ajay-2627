@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 
-Data Analyst with 3.8 years of experience in IT operations, production data support, business 
+Data Analyst with 3.9 years of experience in IT operations, production data support, business 
 intelligence, and data analysis. Proficient in building SQL queries, automating data workflows, 
 and visualizing insights using Power BI, Python and Excel. Hands-on with tools like Splunk, 
 Kibana, Autosys, and Jenkins for data monitoring, analysis, and job scheduling. Strong 
