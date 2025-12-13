@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 
-Data Analyst with 3.9 years of experience in IT operations, production data support, business 
+Data Analyst with 1.7 years of experience in IT operations, production data support, business 
 intelligence, and data analysis. Proficient in building SQL queries, automating data workflows, 
 and visualizing insights using Power BI, Python and Excel. Hands-on with tools like Splunk, 
 Kibana, Autosys, and Jenkins for data monitoring, analysis, and job scheduling. Strong 
@@ -135,19 +135,6 @@ insights and ensure service excellence.
 - Interfaced with business teams via ServiceNow to resolve data tickets and manage change requests.  
 - Contributed to internal process documentation (KEDB) and prepared daily operations reports for clients.  
 
----
-
-### 🔹 Data Analyst – Infosavant Technologies, Mumbai  
-**📅 Duration:** Dec 2021 – May 2024  
-
-- Delivered production support for high-availability data pipelines and automated reporting tasks.  
-- Wrote and optimized complex SQL queries for operations reporting and root cause investigations.  
-- Created Excel-based and Power BI reports to summarize team metrics, operational KPIs, and incident history.  
-- Worked closely with application teams to maintain SLA, ensure data accuracy, and assist in process automation.  
-- Participated in DR and BCP (Business Continuity Planning) simulations and data migration activities.  
-- Supported CI/CD operations using Jenkins and version control through GitHub.  
-
----
 ## 📫 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/ajaytripurani">
