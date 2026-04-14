@@ -1,151 +1,114 @@
-
 <h1 align="center">Hi 👋, I'm Ajay Kumar Tripurani</h1>
-<h3 align="center">IT Engineer | Data Analyst | Power BI & SQL Expert</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Amazon QuickSight | Redshift</h3>
 
-📍 **Location:** J.P. Nagar 6th Phase, Bengaluru – 560078  
-📞 **Phone:** 7993052111  
-📧 **Email:** ajaytripurani1589@gmail.com  
-🔗 **GitHub:** [ajay-2627](https://github.com/ajay-2627) 
+📍 Bangalore, India  
+📞 +91-9866544199  
+📧 ajaytripurani0106@gmail.com  
+🔗 GitHub: https://github.com/ajay-2627  
+🔗 LinkedIn: https://www.linkedin.com/in/ajaytripurani  
 
 ---
 
 ## 🚀 About Me  
 
+Data Analyst with ~2 years of experience in IT operations, business intelligence, and production data support. Skilled in SQL, Power BI, Amazon QuickSight, Python, and Excel for data analysis, dashboard development, and workflow automation.  
 
-Data Analyst with 1.7 years of experience in IT operations, production data support, business 
-intelligence, and data analysis. Proficient in building SQL queries, automating data workflows, 
-and visualizing insights using Power BI, Python and Excel. Hands-on with tools like Splunk, 
-Kibana, Autosys, and Jenkins for data monitoring, analysis, and job scheduling. Strong 
-background in Oracle/MySQL, root cause analysis, and ITIL-aligned process management. 
-Proven experience in collaborating across technical and business teams to deliver actionable 
-insights and ensure service excellence.
+Hands-on experience in migrating dashboards from Power BI to Amazon QuickSight and databases from MySQL to Amazon Redshift. Strong expertise in building real-time dashboards, performing root cause analysis, and delivering data-driven insights to improve business performance.
 
 ---
 
-<h1 align="left">🛠️ Tech Stack</h1>
+## 🛠️ Tech Stack  
 
 ### 📊 Data Analytics & Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Glue_DataBrew-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+- Power BI  
+- Amazon QuickSight  
+- Excel (Advanced)  
+- Power Query, Power Pivot  
 
-### ☁️ IT Operations & System Administration  
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-5A6876?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Config-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Macie-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+### 💻 Programming & Query  
+- SQL  
+- Python (Pandas, NumPy)  
+- DAX  
+- Linux  
 
-### 📈 Business Intelligence & ETL  
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Transformation-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL_Processes-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_DMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AppFlow-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+### 🗄️ Databases  
+- MySQL  
+- Amazon Redshift  
 
-### 🎨 Web Development & Design  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+### ⚙️ Tools & Platforms  
+- DataDog  
+- ServiceNow  
+- JIRA  
+- SQL Developer  
 
 ---
-## 🏆 Strengths
 
-- **Analytical Thinking:** Ability to analyze large datasets, identify trends, and derive actionable insights.  
-- **Problem-Solving:** Skilled in identifying inefficiencies and providing data-driven solutions.  
-- **Data Visualization:** Expertise in creating visually compelling dashboards for effective decision-making.  
-- **Attention to Detail:** Strong focus on accuracy and quality in data analysis and reporting.  
-- **Technical Proficiency:** Proficient in SQL, Python, Power BI, and AWS analytics services.  
-- **Communication Skills:** Ability to translate complex data findings into clear and meaningful insights for stakeholders.  
-- **Adaptability:** Quick learner with the ability to adapt to new tools, technologies, and business requirements.  
-
----
-## 📊 Projects  
-
-### **Sales Data Analysis and Visualization** – June 2024  
-- Developed an interactive Power BI dashboard to analyze sales performance.  
-- Visualized sales trends, product categories, and customer segments for strategic insights.  
-- Analyzed profitability by region, sub-category, and shipment costs to optimize revenue.  
-
-### **Customer Churn Analysis and Visualization (RL Customer Care)** – July 2024  
-- Designed a Power BI dashboard to monitor customer churn trends.  
-- Analyzed churn rate, demographics, contract types, payment methods, and service usage.  
-- Provided actionable insights to improve customer retention strategies.  
-
-### **Dashboard Development & Data Analysis (Rocket Learning)** – June 2024 – Present  
-- Built and maintained multiple Power BI dashboards for business data analysis.  
-- Analyzed organization creation, API trends, content delivery, and asset management.  
-- Monitored Jira tickets, internal checks, and SIM calling data for operational insights.  
-- Provided data-driven recommendations to optimize costs and enhance performance.  
-
-### **Asset Management Dashboard (Laptops) – Rocket Learning**  
-- Developed a Power BI dashboard to track and manage laptop assets across the organization.  
-- Provided real-time insights into inventory, asset allocation, and lifecycle management.  
-
-### **Mobile Asset Management Dashboard – Rocket Learning**  
-- Designed an interactive Power BI dashboard to track mobile device inventory across locations.  
-- Implemented geo-mapping for asset distribution and status monitoring.  
-
-### **SIM Box Management Dashboard – February Report**  
-- Built a Power BI dashboard to analyze SIM card usage, allocation, and activity trends.  
-- Tracked active vs. inactive SIMs, call frequency, and team-wise allocation.  
-
-### **API Check Analysis – February**  
-- Created a Power BI dashboard to track daily API checks and time-slot distribution.  
-- Identified peak usage times, performance trends, and anomalies for system efficiency.  
-
-### **Content Partial Delivery Analysis – February**  
-- Developed a Power BI dashboard to analyze content delivery efficiency by region.  
-- Tracked manual check accuracy, partial deliveries, and daily performance trends.  
-
----
 ## 💼 Experience  
 
-### 🔹 Data Analyst – RL, Bangalore  
-**Client:** little yogi's
-**📅 Duration:** June 2024 – Present  
+### 🔹 Data Analyst – Rocket Learning (EKHO Foundation), Bangalore  
+📅 June 2024 – Present  
 
-- Built and optimized SQL queries for extracting and transforming transactional data from Oracle and MySQL databases.  
-- Developed interactive dashboards in Power BI to monitor job failures, feed delays, and SLA breaches.  
-- Used Splunk, Kibana, and Geneos (ITRS) to detect data anomalies and visualize system-level metrics.  
-- Automated recurring data validation and job health checks using Python and Shell scripting.  
-- Scheduled, monitored, and troubleshot ETL workflows using DataDog, TWS, and Control-M.  
-- Interfaced with business teams via ServiceNow to resolve data tickets and manage change requests.  
-- Contributed to internal process documentation (KEDB) and prepared daily operations reports for clients.  
+- Migrated dashboards from Power BI to Amazon QuickSight for cloud-based analytics  
+- Led migration from MySQL to Amazon Redshift, improving query performance  
+- Built real-time dashboards including Nudge and Content Streaming dashboards  
+- Developed dashboards for API monitoring, customer churn, and asset management  
+- Performed root cause analysis using operational and ticketing data  
+- Automated data extraction and transformation using SQL and Power Query  
+
+---
+
+## 💼 Freelance Experience  
+
+### 🔹 Freelance Data Analyst – Besant Technologies  
+📅 2023 – 2024  
+
+- Developed sales and marketing dashboards using Power BI  
+- Analyzed customer segmentation, revenue trends, and campaign performance  
+- Built KPI reports for conversion rates and business growth  
+- Automated reporting processes to improve efficiency  
+- Delivered actionable insights for business decision-making  
+
+---
+
+## 📊 Projects  
+
+### ✈️ Aircraft Maintenance & Failure Analysis Dashboard (Final Year Project)  
+- Analyzed aircraft maintenance data using SQL and Python  
+- Built dashboards to track failure rates and maintenance trends  
+- Designed KPIs like MTBF and MTTR for reliability analysis  
+- Identified failure patterns to improve maintenance planning  
+
+---
+
+### 📈 Real-Time Nudge Dashboard  
+- Built dashboard to track user engagement and behavioral insights  
+- Enabled data-driven interventions and decision-making  
+
+---
+
+### 📡 Content Streaming Dashboard  
+- Monitored content delivery, streaming performance, and user activity  
+- Identified trends to improve platform efficiency  
+
+---
+
+## 🏆 Strengths  
+
+- Data Analysis & Problem Solving  
+- Dashboard Development & Visualization  
+- Root Cause Analysis (RCA)  
+- Business Insights & Decision Support  
+- Strong Analytical Thinking  
+
+---
 
 ## 📫 Let's Connect!  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ajaytripurani">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/ajay-2627">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-<h2  align="center">⭐ Star my repositories if you find them useful! 🚀  </h2>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fcd34601-619d-4c34-bddb-c4986ac03554" alt="Dashboard Banner" width="100%">
-</p>
-
